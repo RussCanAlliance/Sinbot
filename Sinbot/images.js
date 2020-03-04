@@ -1,23 +1,23 @@
 var images = [
   {
-    file: 'baby-elephant.jpg',
-    source: 'https://www.hd-wallpapersdownload.com/desktop-free-baby-animal-wallpaper/'
+    file: 'thing',
+    source: https://github.com/RussCanAlliance/Sinbot/blob/master/1582997933306.jpg
   },
   {
-    file: 'baby-panda.jpg',
-    source: 'https://www.ordissinaute.fr/diaporamas/2016-05-09-beaux-bebes'
+    file: 'cat',
+    source: 'https://github.com/RussCanAlliance/Sinbot/blob/master/1583001960559.jpg'
   },
   {
-    file: 'kitten.jpg',
-    source: 'https://pxhere.com/fi/photo/1124650'
+    file: 'shoot the sun',
+    source: 'https://github.com/RussCanAlliance/Sinbot/blob/master/1583032979067.jpg'
   },
   {
     file: 'puppy.jpg',
     source: 'http://www.publicdomainpictures.net/view-image.php?image=10863&picture=baby-cockamo-in-yard'
   },
   {
-    file: 'two-kittens.jpg',
-    source: 'http://maxpixel.freegreatpicture.com/Animals-Cute-Kitten-Funny-Little-Cats-88152'
+    file: 'lady',
+    source: 'https://github.com/RussCanAlliance/Sinbot/blob/master/jhvep8dbyvj41.jpg'
   }
 ];
 
